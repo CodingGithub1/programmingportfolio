@@ -1,3 +1,4 @@
 # Programming | Portfolio     
-Student : Aayush Silwal
+Name : Aayush Silwal
 Contact: 9674979@graniteschools.org
+
