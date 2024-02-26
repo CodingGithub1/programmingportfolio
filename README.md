@@ -4,6 +4,38 @@
 
 # Individual Projects
 
+## Project 1
+#### Title: Calculator
+##### Description: A functioning calculator with basic functions. Can do addition, subtraction, multiplication, and division.
+##### Images: ![alt text](https://github.com/CodingGithub1/programmingportfolio/blob/main/images/calculator.png)
+##### Source Code: 
+
+## Project 2
+#### Title:
+##### Description:
+##### Images:
+##### Source Code:
+
+## Project 3
+#### Title:
+##### Description:
+##### Images:
+##### Source Code:
+
+## Project 4
+#### Title:
+##### Description:
+##### Images:
+##### Source Code:
+
+## Project 5
+#### Title:
+##### Description:
+##### Images:
+##### Source Code:
+
+
+
 # Group Project
 #### Title: Laser Strike
 ##### Description: a video game influenced by geometry dash built but with a twist of storylines and interactions to keep user hooked. 
